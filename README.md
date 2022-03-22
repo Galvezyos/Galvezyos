@@ -1,4 +1,4 @@
-# Demo
+# Galvezyos
 - 👋 Hi, I’m @Galvezyos
 - 🌱 I’m currently learning git and python
 
